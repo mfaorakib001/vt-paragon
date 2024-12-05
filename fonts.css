@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Agency FB";
+   src: url("fonts/Agency FB Bold.woff") format("woff"), url("fonts/Agency FB Bold.eot") format("embedded-opentype"), url("fonts/Agency FB Bold.TTF") format("truetype"), url("fonts/Agency FB Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Agency FB";
+   src: url("fonts/Agency FB.woff") format("woff"), url("fonts/Agency FB.eot") format("embedded-opentype"), url("fonts/Agency FB.TTF") format("truetype"), url("fonts/Agency FB.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
